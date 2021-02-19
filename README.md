@@ -1,7 +1,12 @@
 # Trading-Algo
 Trading Algorithm
 
+<br>
+
 Steps:
+
+<br>
+
 1 - Data exploration - Look for relevant features that will help model prediction <br>
 2 - Train Models - Train models based on relevant features, pick model with best accuracy <br>
 3 - Trade - Trade based on model prediction output <br>
