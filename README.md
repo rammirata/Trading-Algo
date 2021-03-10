@@ -5,7 +5,4 @@ The cryptocurrency market is primed for a trading algorithm based on technical a
 Phase 1: Proof of concept for cryptocurrencies Trading algorithm for BTC. Including scripts for: Data exploration, Training and Testing scripts.
 <br>
 <br>
-
-<br>
-<br>
 Phase 2: Trading class with models as child classes. Predict multiple cryptocurrencies and trade around them based on return.
